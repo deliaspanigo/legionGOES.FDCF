@@ -1,0 +1,12 @@
+
+# R / RStudio local files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Archivos locales / generados
+inst/test_files/output_folder/
+
+# Archivos satelitales grandes
+inst/test_files/*.nc
